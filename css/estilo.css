@@ -1,0 +1,84 @@
+main{
+    text-align: center;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+p{
+    color: lightslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    color: white;
+    background-color: deepskyblue;
+    border-color: deepskyblue;
+    border-radius: 5px;
+    width: 100px ;
+    height: 50px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    color: lightslategrey;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.caja1{
+    border: 1px solid rgb(221, 218, 218);
+    width: 350px;
+    height: 220px;
+    padding: 50px;
+    margin: 30px;
+    
+}
+.caja2{
+    border: 1px solid rgb(221, 218, 218);
+    width: 350px;
+    height: 220px;
+    padding: 50px;
+    margin: 30px;
+}
+.caja3{
+    border: 1px solid rgb(221, 218, 218);
+    width: 350px;
+    height: 220px;
+    padding: 50px;
+    margin: 30px;
+}
+.caja4{
+    border: 1px solid rgb(221, 218, 218);
+    width: 350px;
+    height: 220px;
+    padding: 50px;
+    margin: 30px;
+}
+.caja5{
+    border: 1px solid rgb(221, 218, 218);
+    width: 350px;
+    height: 220px;
+    padding: 50px;
+    margin: 30px;
+}
+.caja6{
+    border: 1px solid rgb(221, 218, 218);
+    width: 350px;
+    height: 220px;
+    padding: 50px;
+    margin: 30px;
+    
+}
+.padre{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 12%;
+       
+}
+
+
+
+
+
+
+
+
